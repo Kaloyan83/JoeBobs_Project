@@ -1,0 +1,10 @@
+#primary {
+    width: 70%;
+    float: left;
+}
+#secondary {
+    width: 26%;
+    float: right;
+}
+
+.nivo-caption{right:inherit; left:13%; text-align:left !important;}
